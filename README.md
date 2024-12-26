@@ -25,7 +25,7 @@ pynput library (Install using pip install pynput)
 ⚙️ How to Use
 
 1.Clone this repository:
-git clone https://github.com/your-username/python-keylogger.git
+git clone https://github.com/your-username/python-keylogger.git ,
 cd python-keylogger
 
 2. Install dependencies:
@@ -34,7 +34,7 @@ pip install pynput
 3.run the script:
 python keylogger.py
 
- To Stop the Keylogger
+ To Stop the Keylogger:
 Press the ESC key to stop the program.
 
 ⚠️ Disclaimer
