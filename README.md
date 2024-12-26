@@ -11,3 +11,5 @@ Logs all keystrokes (including special keys like space and enter).
 Saves logs to a file for analysis.
 Graceful stop mechanism using the ESC key.
 Simple and lightweight implementation.
+
+
